@@ -60,8 +60,8 @@ var rectangle1 = {
 };
 var rectangle2 = {
     // coordinates of bottom-left corner
-    leftX: 7,
-    bottomY: 9,
+    leftX: 5,
+    bottomY: 5,
     // width and height
     width: 10,
     height: 10,
